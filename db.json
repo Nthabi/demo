@@ -1,7 +1,7 @@
 {
   "customers": [
-    { "date": "02-01-2021", "fullname": "Bobby Brown" , "msisdn": "0293849182", "amount": 1000, "status": "Paid", "action": "Mark as Not Paid"},
-    { "date": "02-02-2021", "fullname": "John Doe" , "msisdn": "0293843182", "amount": 10000, "status": "Not Paid", "action": "Mark as Paid"},
-    { "date": "12-01-2021", "fullname": "Petty Cat" , "msisdn": "0293841182", "amount": 2000, "status": "Not Paid", "action": "Mark as Paid"}
+    { "date": 2, "fullname": "Bobby Brown" , "msisdn": "0293849182", "amount": 1000, "status": "Paid", "action": "Mark as Not Paid"},
+    { "date": 4, "fullname": "John Doe" , "msisdn": "0293843182", "amount": 10000, "status": "Not Paid", "action": "Mark as Paid"},
+    { "date": 6, "fullname": "Petty Cat" , "msisdn": "0293841182", "amount": 2000, "status": "Not Paid", "action": "Mark as Paid"}
   ]
 }
