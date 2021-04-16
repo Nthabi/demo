@@ -1,5 +1,10 @@
 {
   "customers": [
-    { "date": 1, "fullname": "Bobby Brown" , "msisdn": "0293849182", "amount": 1000, "status": "Paid", "action": "Mark as Not Paid"}
+    { "date": 1, "fullname": "Bobby Brown" , "msisdn": "0293849182", "amount": 1000, "status": "Paid", "action": "Mark as Not Paid"},
+    { "date": 1, "fullname": "Bobby Pink" , "msisdn": "0000049182", "amount": 1000, "status": "Not paid", "action": "Mark as Paid"}
+  ],
+  "cashback": [
+    {"startDate": 1, "endDate": 1.1, "policyId": 23456, amount: 10000, "status": "Paid", "action": "Mark as Not Paid"}
   ]
+  
 }
